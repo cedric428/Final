@@ -1,0 +1,7 @@
+Implied volatility of an American put option
+
+implied volatility,0.180134
+Iterations,4
+
+
+Remarks:, Binomial tree for American option with variance reduction is used here.
